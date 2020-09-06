@@ -1,2 +1,1 @@
-NB - These images are for the Android Pie, 4 GB version of the phone.
-Please ensure that this firmware is compatible for your model. 
+NB - These images are for the Android Pie, 4 GB version of the phone. Contents are laregly explanatory. If installing TWRP, it is necessary to flash an empty vbmeta image (vbmeta_patched.img), otherwise you risk a boot loop. More details regarding TWRP may be found at 
